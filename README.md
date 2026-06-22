@@ -46,5 +46,3 @@ API / 라우트 개요
 | `/auth/*` | 회원가입, 로그인, 카카오 OAuth |
 | `/post/*` | 게시글 CRUD |
 | `/user/*` | 사용자 관련 API |
-
-MIT
